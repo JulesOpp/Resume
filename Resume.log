@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  1 APR 2018 13:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  3 JUN 2018 22:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,19 +868,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 140.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 140.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 405.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 409.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 405.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 409.
  (./Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 405.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 405.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 409.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 409.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 409.
  ) 
 Here is how much of TeX's memory you used:
  18365 strings out of 493005
